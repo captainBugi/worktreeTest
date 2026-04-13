@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/worktreeTest.iml" filepath="$PROJECT_DIR$/.idea/worktreeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hotfix-test.iml" filepath="$PROJECT_DIR$/.idea/hotfix-test.iml" />
     </modules>
   </component>
 </project>
